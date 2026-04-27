@@ -86,17 +86,6 @@ Experienced in building **scalable backend systems**, developing **RESTful APIs*
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=krishdani&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishdani&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 🌱 Currently Exploring
 
 * Microservices & Distributed Systems
