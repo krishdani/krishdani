@@ -1,5 +1,5 @@
 <div align="center">
-# 👋 Hi, I'm Krish Dani
+<b><h2>  Hi, I'm Krish Dani<h2><b>
 
 🚀 Software Engineer | Backend Developer | Full Stack | Cloud & AI
 🎓 MSc IT @ Indus University (CGPA: 9.15)
