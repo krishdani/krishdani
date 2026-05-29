@@ -1,102 +1,112 @@
-<div align="center">
-<b><h2>  Hi, I'm Krish Dani<h2><b>
+# Krish Dani
 
-🚀 Software Engineer | Backend Developer | Full Stack | Cloud & AI
-🎓 MSc IT @ Indus University (CGPA: 9.15)
-📍 India
+**Full-Stack Developer | Backend Engineer | AI & Cloud Enthusiast**
 
-</div>
+MSc IT @ Indus University (CGPA: 9.15) | Building scalable systems
 
 ---
 
-## 🧠 Professional Summary
+## About Me
 
-MSc IT student with strong foundations in **Data Structures & Algorithms, Object-Oriented Programming (OOP), and System Design**.
-Experienced in building **scalable backend systems**, developing **RESTful APIs**, and deploying applications using **AWS and Docker**.
+Full-stack software engineer with expertise in **backend development, system design, and cloud technologies**. Passionate about building scalable applications, exploring AI/ML, and solving complex problems through clean code and architectural excellence.
 
-💡 Skilled in:
-
-* Backend Development (Node.js, PHP, FastAPI)
-* Full Stack Development (React.js, MySQL)
-* Cloud & DevOps (AWS EC2, S3, Lambda, Docker)
-* AI/ML (TensorFlow, NLP, LLMs, LangChain)
-
-🎯 Seeking a **Software Engineer role** focused on **backend and distributed systems**
+Currently focused on **microservices, distributed systems, and LLM-based applications**.
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
+**Languages:** Python • JavaScript • TypeScript • PHP • Java • HTML/CSS
 
-<img src="https://skillicons.dev/icons?i=java,python,js,php,react,nodejs,nextjs,mysql,mongodb,postgres,aws,docker,git"/>
+**Backend:** Node.js • Express • FastAPI • Django
 
-</div>
+**Frontend:** React.js • Next.js • Tailwind CSS
+
+**Databases:** MySQL • MongoDB • PostgreSQL
+
+**Cloud & DevOps:** AWS (EC2, S3, Lambda) • Docker • Git
+
+**AI/ML:** TensorFlow • LangChain • OpenAI API
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Featured Projects
+
+### 🤖 DocMInd-AI
+*TypeScript | AI-Powered Documentation System*
+
+Intelligent documentation management and processing tool leveraging AI for automated document analysis and organization.
+
+**Tags:** AI • Document Processing • TypeScript • Automation
+
+---
+
+### 🏪 Grit & Glow
+*PHP • React • MySQL | E-Commerce Platform*
+
+Full-featured e-commerce platform for premium skincare products with secure payment processing, JWT authentication, and optimized database architecture.
+
+**Tags:** E-Commerce • PHP • React • MySQL • Security
+
+---
 
 ### 🍽️ Restaurant Management System
+*Node.js • React • MySQL | Scalable Backend System*
 
-* Designed **scalable RESTful APIs** for menu, inventory, and order management
-* Built using **Node.js, PHP, MySQL** with OOP design principles
-* Engineered **normalized database schema** for optimized performance
-* Implemented **role-based authentication & session management**
-* Developed **React.js admin dashboard** for real-time operations
+Enterprise-grade restaurant management system featuring RESTful APIs, role-based authentication, real-time inventory management, and admin dashboard.
 
----
-
-### 🎙️ AI Speech Recognition System
-
-* Built **speech-to-text pipeline** using **Python & TensorFlow**
-* Performed **audio preprocessing & MFCC feature extraction**
-* Deployed using **Docker + AWS EC2**, with **S3 storage & Lambda automation**
-* Designed for **scalable batch inference workflows**
+**Tags:** Backend • APIs • Database Design • Node.js
 
 ---
 
-### 🛍️ Girt & Glow – E-Commerce Platform
+### 🎤 AI Speech Recognition System
+*Python • TensorFlow • AWS*
 
-* Developed secure backend using **PHP with JWT-based authentication**
-* Implemented **SQL injection prevention & secure session handling**
-* Built **REST APIs for cart, checkout, and order tracking**
-* Optimized **MySQL queries with indexing for performance**
+Speech-to-text pipeline with audio preprocessing and MFCC feature extraction, deployed on AWS with Docker containerization.
+
+**Tags:** AI • TensorFlow • AWS • Python • Audio Processing
 
 ---
 
-## 🧩 Core Skills & Concepts
+### 🤖 AI-Ticket-Resolver
+*AI-Powered Support System*
 
-* Data Structures & Algorithms (DSA)
-* Object-Oriented Programming (OOP)
-* System Design & Scalable Architectures
-* RESTful API Development
-* Database Design & Optimization
+Automated ticket resolution system leveraging machine learning for intelligent support ticket classification and routing.
+
+**Tags:** AI • Automation • Support Systems
+
+---
+
+## 📊 Skills & Expertise
+
+- **Backend Development:** RESTful APIs, Microservices, System Design
+- **Database Design:** Schema Optimization, Query Performance, Normalization
+- **Cloud & DevOps:** AWS Services, Docker, CI/CD
+- **AI/ML:** LLM Applications, NLP, Computer Vision
+- **Core Concepts:** DSA, OOP, Design Patterns, Scalability
 
 ---
 
 ## 🏆 Certifications
 
-* ☁️ AWS Cloud Practitioner Essentials — Amazon Web Services
-* 📊 Data Analytics Job Simulation — Deloitte (Forage, 2024)
-* 🤖 AI Engineer — Coursera / DataCamp
+- ☁️ AWS Cloud Practitioner Essentials — Amazon Web Services
+- 📊 Data Analytics Job Simulation — Deloitte
+- 🤖 AI Engineer Specialization — Coursera / DataCamp
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Currently Learning
 
-* Microservices & Distributed Systems
-* Event-Driven Architecture
-* LLM Applications & Agentic AI
-* Advanced Backend System Design
+Microservices Architecture • Event-Driven Systems • Advanced System Design • Agentic AI
 
 ---
 
-## 📫 Connect With Me
+## 📫 Get In Touch
 
-* 💼 LinkedIn: https://linkedin.com/in/krishdani
-* 📧 Email: [krishrdani2005@gmail.com](mailto:krishrdani2005@gmail.com)
+- **Email:** krishrdani2005@gmail.com
+- **LinkedIn:** [krishdani](https://linkedin.com/in/krishdani)
+- **GitHub:** [@krishdani](https://github.com/krishdani)
 
 ---
 
-⭐ *Focused on building scalable systems and continuously improving engineering skills.*
+⭐ *Open to collaborating on interesting projects. Let's build something amazing!*
